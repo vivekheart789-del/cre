@@ -1,0 +1,29 @@
+/kv-luxury-showroom/
+│
+├─ /public/
+│   ├─ /images/
+│   │    ├─ hero-bg.jpg
+│   │    ├─ layer-bg.png
+│   │    └─ layer-foreground.png
+│   ├─ /models/
+│   │    ├─ bag.glb
+│   │    ├─ watch.glb
+│   │    └─ necklace.glb
+│   └─ /videos/
+│        ├─ hero-overlay.mp4
+│        ├─ bag-preview.mp4
+│        └─ watch-preview.mp4
+│
+├─ /src/
+│   ├─ /components/
+│   │    ├─ Hero.jsx
+│   │    ├─ Product3D.jsx
+│   │    ├─ ProductCatalog.jsx
+│   │    ├─ VIPDashboard.jsx
+│   │    └─ Footer.jsx
+│   ├─ KVFullShowroom.jsx
+│   └─ index.jsx
+│
+├─ package.json
+├─ tailwind.config.js
+└─ README.md
